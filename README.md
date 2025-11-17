@@ -11,10 +11,11 @@ An interactive Tableau dashboard designed to help HR managers analyze workforce 
 ## Dashboard Preview
 
 ### Summary View
-![HR | Summary](assets/Dashboard-stills/HR-|-Summary.png)
+<img width="800" alt="charts" src="https://github.com/DipanshuK2003/HR-Tableau-Dashboard/blob/main/Assets/Dashboard%20stills/HR%20%7C%20Summary.png">
 
-![HR | Details](assetsDashboard-stills/HR-|-Details.png)
-*Comprehensive summary view showing Overview, Demographics, and Income Analysis sections*
+<img width="800" alt="charts" src="https://github.com/DipanshuK2003/HR-Tableau-Dashboard/blob/main/Assets/Dashboard%20stills/HR%20%7C%20Details.png">
+
+Comprehensive summary view showing Overview, Demographics, and Income Analysis sections
 
 ## Business Objectives Met
 
@@ -70,9 +71,9 @@ An interactive Tableau dashboard designed to help HR managers analyze workforce 
 
 | File | Description |
 |------|-------------|
-| `HR_Dashboard.twbx` | Complete Tableau packaged workbook |
-| `data/dataset.csv` | Generated dataset (8,950 records) |
-| `assets/` | Dashboard screenshots and logos |
+| `HR Dashboard New.twbx` | Complete Tableau packaged workbook |
+| `Dataset/dataset.csv` | Generated dataset (8,950 records) |
+| `Assets/` | Dashboard screenshots and logos |
 
 ## How to Use
 
